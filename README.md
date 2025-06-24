@@ -1,5 +1,5 @@
 # 💱 Currency Automation Tool (Python)
-
+![Python CI](https://github.com/kirilproger/currency-automation/actions/workflows/python-ci.yml/badge.svg)
 A Python CLI tool that fetches currency exchange rates via public API, logs results, and optionally saves them to an Excel file.
 
 ---
