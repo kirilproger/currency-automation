@@ -25,5 +25,6 @@ jobs:
         python -m py_compile main.py
 
     - name: Run tests
-      run: pytest
+      run: |
+        pytest
 
