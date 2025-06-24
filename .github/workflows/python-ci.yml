@@ -26,5 +26,6 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest
+       cd currency-automation
+       pytest
 
